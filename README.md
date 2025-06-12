@@ -1,46 +1,55 @@
-# Getting Started with Create React App
+# Yehiam Knafo 
+*Developer | Spring Boot | Java | React-ts*  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## 📌 About Me  
+Passionate backend developer with 2 years of experience building full-stack applications. I thrive on challenging tech stacks (like JavaFX + Express.js) to deepen my understanding of systems. Currently mastering **Spring Boot MVC** and **React** while focusing on writing clean, maintainable code.  
 
-In the project directory, you can run:
+**Key Strengths:**  
+✔ Problem-solving with unconventional approaches  
+✔ Fast learner (self-taught Docker/Jenkins in projects)  
+✔ Ownership mindset (from idea → deployed product)  
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🎓 Education  
+**Diploma in Computer Science**  
+ORT Rehovot | *2024 - 2025*  
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## 💻 Technical Skills  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Languages  
+`C` `Java` `JavaScript/TypeScript` `Python` `HTML/CSS` `XML`  
 
-### `npm run build`
+### Frameworks & Tools  
+**Backend:**  
+`Spring Boot` `Express.js` `TCP Socket Programming`  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Frontend:**  
+`React` `JavaFX`  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**DevOps & Databases:**  
+`Docker` `Jenkins` `MongoDB` `PostgreSQL`  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Build Tools:**  
+`Gradle` `Maven`  
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🚀 Projects  
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Dating App (Full-Stack)  
+- **Stack:** JavaFX (Frontend) + Express.js (Backend) + TCP Server  
+- **DevOps:** Dockerized deployment with Jenkins CI/CD  
+- **Key Achievement:** Built end-to-end as self-directed learning project  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🌟 Philosophy  
+*"I believe in learning by building—even if it means taking the harder path initially. My JavaFX struggle taught me more than any tutorial could."*  
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+---  
+📫 **Contact:** yehiamknafo5757@gmail.com | [GitHub](https://github.com/yehiamtheone) | [LinkedIn](https://linkedin.com/)  
