@@ -4,7 +4,7 @@
 ---
 
 ## 📌 About Me  
-Passionate backend developer with 2 years of experience building full-stack applications. I thrive on challenging tech stacks (like JavaFX + Express.js) to deepen my understanding of systems. Currently mastering **Spring Boot MVC** and **React** while focusing on writing clean, maintainable code.  
+Passionate developer with 2 years of experience building full-stack applications. I thrive on challenging tech stacks (like JavaFX + Express.js) to deepen my understanding of systems. Currently mastering **Spring Boot MVC** and **React** while focusing on writing clean, maintainable code.  
 
 **Key Strengths:**  
 ✔ Problem-solving with unconventional approaches  
@@ -35,7 +35,7 @@ ORT Rehovot | *2024 - 2025*
 `Docker` `Jenkins` `MongoDB` `PostgreSQL`  
 
 **Build Tools:**  
-`Gradle` `Maven`  
+`Gradle` `Maven` `Vite` `React-scripts` `Npm` 
 
 ---
 
