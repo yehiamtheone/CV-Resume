@@ -63,7 +63,7 @@ const MyDocument = ({ sections }: CVSection) => (
             <ExperienceItem 
               title="Computer Science Diploma"
               subtitle="ORT Rehovot"
-              period="2025"
+              period="2024 - 2025"
             />
           </Section>
 
