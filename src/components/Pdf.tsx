@@ -52,6 +52,7 @@ const MyDocument = ({ sections }: CVSection) => (
             <SkillCategory name="Languages" items={['Java', 'TypeScript', 'Python', 'SQL']} />
             <SkillCategory name="Frameworks" items={['Spring Boot', 'React', 'Express','JavaFX']} />
             <SkillCategory name="Tools" items={['Docker', 'Jenkins', 'Git', 'MongoDB']} />
+            <SkillCategory name="OS" items={['Linux', 'Shell Scripts', 'Bash', 'Windows', 'Bat']} />
           </Section>
         </View>
 
@@ -85,7 +86,7 @@ const MyDocument = ({ sections }: CVSection) => (
           <Section title='Languages i speak' accentColor='"#e74c3c"'>
 
               <Text key={1} style={styles.skillItem}>• Hebrew - native</Text>
-              <Text key={1} style={styles.skillItem}>• English - nice with it</Text>
+              <Text key={2} style={styles.skillItem}>• English - nice with it</Text>
 
 
           </Section>
