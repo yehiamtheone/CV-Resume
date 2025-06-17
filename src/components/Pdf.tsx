@@ -23,11 +23,11 @@ const MyDocument = ({ sections }: CVSection) => (
         <Text style={styles.tagline}>SOFTWARE ENGINEER</Text>
         <View style={styles.contactContainer}>
           <View style={styles.contactLine} />
-          <Text style={styles.contactItem}>{details.phonenumber}</Text>
+          <Text ><Link style={styles.contactItem} src={`tel:${details.phonenumber}`}>{details.phonenumber}</Link></Text>
           <View style={styles.contactDot} />
           <Text style={styles.contactItem}>{details.email}</Text>
           <View style={styles.contactDot} />
-          <Link src={details.github} style={styles.link}>
+          <Link src={details.github} style={styles.contactItem}>
             {details.github?.split('//')[1]}
           </Link>
           <View style={styles.contactLine} />
@@ -210,15 +210,11 @@ const styles = StyleSheet.create({
   },
   contactItem: {
     fontSize: 10,
-    color: '#7f8c8d',
-    marginHorizontal: 5,
-  },
-  link: {
-    fontSize: 10,
     color: '#3498db',
-    textDecoration: 'none',
     marginHorizontal: 5,
+    textDecoration:'none'
   },
+
   columns: {
     flexDirection: 'row',
     paddingHorizontal: 20,
