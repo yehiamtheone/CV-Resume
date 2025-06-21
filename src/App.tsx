@@ -22,8 +22,7 @@ function App(): JSX.Element {
   const currentYear = new Date();
   const [activeSection, setActiveSection] = useState<string | null>(null);
   const pdfAction = async () => {
-  const fillterdSections = sections.filter(project=> project.id !== "projects");
-  const blob = await pdf(<MyDocument sections={fillterdSections} />).toBlob();
+  const blob = await pdf(<MyDocument />).toBlob();
   const url = URL.createObjectURL(blob);
   const link = document.createElement('a');
   link.href = url;
